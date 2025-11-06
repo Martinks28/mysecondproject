@@ -1,2 +1,1 @@
-# mysecondproject
-lis moi
+petite modif du readme
